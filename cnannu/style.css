@@ -1,0 +1,183 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    background-color: rgba(0, 0, 0, 0.767);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 35px;
+    padding-bottom: 0%;
+}
+nav{
+    background-color: rgba(0, 0, 0, 0.767);
+    text-align: center;
+    padding-bottom: 21px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin: 13px;
+}
+.section1 h2{
+    padding-bottom: 30px;
+}
+.section1{
+    background-color: rgb(244, 194, 158);
+    padding-bottom: 10px;
+    padding-top: 30px;
+}
+img{
+   height: 945px;
+   width: 1500px;
+   padding-top: 20px;
+  padding-right: 20px;
+  border-radius: 10px;
+}
+.section1-content,.section2-content,.section3-content,.section4-content,.section5-content{
+    padding: 20px;
+}
+.section2{
+    background-color: rgba(69, 201, 237, 0.322);
+    height: 550px;
+    padding-bottom: 60px;
+    padding-top: 30px;
+    position: relative;
+}
+.card1{
+    background-color: rgb(255, 220, 131);
+    position: absolute;
+    top: 150px;
+    left: 100px;
+}
+.card2{
+    background-color: rgb(64, 224, 184);
+    position: absolute;
+    top: 150px;
+    left: 55%;
+}
+.card3{
+    background-color: rgb(243, 136, 136);
+    position: absolute;
+    top: 65%;
+    left: 30%;
+}
+.card1,.card2,.card3{
+    border-radius: 9px;
+    padding: 17px;
+    width: 520px;
+    height: 150px;
+    /* display: inline-block; */
+}
+.section2 h2{
+    padding-bottom: 17px;
+}
+.section3{
+    background-color:palegreen ;
+    padding-bottom: 10px ;
+    padding-top: 30px;
+}
+.section4{
+    background-color: darkorange;
+    padding-bottom: 10px ;
+    padding-top: 30px;
+}
+.section5{
+    background-color:rgb(98, 78, 227);
+    padding-bottom: 10px ;
+    padding-top: 30px;
+}
+.box{
+    background-color: white;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-bottom: 8px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+label{
+    display: block;
+    font-weight: bold;
+}
+.form{
+    padding: 20px;
+}
+input{
+    width: 100%;
+    margin: 10px 0px 10px 0px;
+    padding: 10px;
+}
+ul{
+    display: block;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-weight: bold;
+}
+.div{
+    border: solid lightgray 2px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 10px;
+    border-radius: 4px;
+    padding-left: 10px ;
+    margin-bottom: 30px;
+}
+h5{
+  font-weight: 500;
+  padding: 1px;
+}
+textarea{
+    width: 100%;
+    padding-bottom: 56px;
+    border: solid lightgray 2px;
+    border-radius: 4px;
+    margin-top: 17px;
+}
+button{
+    background-color: rgba(21, 20, 20, 0.888);
+    color: rgb(211, 206, 206);
+    text-align: center;
+    padding: 9px;
+    border-radius: 4px;
+    width: 100px;
+    margin-top: 26px;
+}
+video{
+    height: 300px;
+    background-color: rgb(38, 36, 36);
+    color: white;
+    margin-top: 20px;
+    width: 500px;
+    text-align: center;
+}
+footer{
+    width: 100%;
+    background-color: rgba(21, 20, 20, 0.888);
+    color: rgb(211, 206, 206);
+    padding: 25px;
+    text-align: center;
+    margin-top: 150px;
+}
+h2{
+    color: rgba(48, 45, 45, 0.888);
+}
+ul input{
+    width: 14px;
+    height: 14px;
+    margin: 0px;
+}
+.options{
+    width:100% ;
+    padding: 10px;
+    margin-top: 10px;
+}
+.Interests{
+    width: 100%;
+    padding: 10px;
+    margin: 20px 0px;
+}
