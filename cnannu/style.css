@@ -1,0 +1,164 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1,nav{
+     background-color: rgba(0, 0, 0, 0.767);
+}
+h1,a{
+  color: white;
+}
+.section1,.section2,.section3,.section4,.section5{
+    padding-top: 30px;
+}
+h1,img{
+    padding-top: 20px;
+}
+img,.box{
+    border-radius: 10px;
+}
+h1,nav,footer,button{
+  text-align: center;
+}
+input,textarea,footer,.options,.Interests{
+    width: 100%;
+}
+input,.Interests,.options{
+     padding: 10px;
+}
+.box,video{
+     margin-top: 20px;
+}
+.section1,.section3,.section4,.section5{
+  padding-bottom: 10px;
+}
+.section3,.section4,.section5{
+  padding-top: 30px;
+}
+label,ul{
+     display: block;
+      font-weight: bold;
+}
+textarea,button{
+    border-radius: 4px;
+}
+ul,.options{
+     margin-top: 10px;
+}
+h1{
+    font-size: 35px;
+    padding-bottom: 0%;
+}
+nav{
+    padding-bottom: 21px;
+}
+a{
+    text-decoration: none;
+    margin: 13px;
+}
+.section1 h2{
+    padding-bottom: 30px;
+}
+.section1{
+    background-color: rgb(244, 194, 158);
+}
+img{
+  height: 945px;
+  width: 1500px;
+  padding-right: 20px;
+}
+.section1-content,.section2-content,.section3-content,.section4-content,.section5-content,.form{
+    padding: 20px;
+}
+.section2{
+    background-color: rgba(69, 201, 237, 0.322);
+    height: 550px;
+    padding-bottom: 60px;
+    position: relative;
+}
+.card1{
+    background-color: rgb(255, 220, 131);
+    top: 150px;
+    left: 100px;
+}
+.card2{
+    background-color: rgb(64, 224, 184);
+    top: 150px;
+    left: 55%;
+}
+.card3{
+    background-color: rgb(243, 136, 136);
+    top: 65%;
+    left: 30%;
+}
+.card1,.card2,.card3{
+    position: absolute;
+    border-radius: 9px;
+    padding: 17px;
+    width: 520px;
+    height: 150px;
+}
+.section2 h2{
+    padding-bottom: 17px;
+}
+.section3{
+    background-color:palegreen ;
+}
+.section4{
+    background-color: darkorange;
+}
+.section5{
+    background-color:rgb(98, 78, 227);
+}
+.box{
+    background-color: white;
+    margin: 0% 30%;
+    padding-bottom: 8px;
+}
+input{
+    margin: 10px 0px;
+}
+ul{
+    margin-left: 10px;
+}
+h5{
+  font-weight: 500;
+  padding: 1px;
+}
+textarea{
+    padding-bottom: 56px;
+    border: solid lightgray 2px;
+    margin-top: 17px;
+}
+button{
+    background-color: rgba(21, 20, 20, 0.888);
+    color: rgb(211, 206, 206);
+    padding: 9px;
+    width: 100px;
+    margin-top: 26px;
+}
+video{
+    height: 300px;
+    width: 500px;
+}
+footer{
+    background-color: rgba(21, 20, 20, 0.888);
+    color: rgb(211, 206, 206);
+    padding: 25px;
+    margin-top: 150px;
+}
+h2{
+    color: rgba(48, 45, 45, 0.888);
+}
+ul input{
+    width: 14px;
+    height: 14px;
+    margin: 0px;
+}
+.Interests{
+    margin: 20px 0px;
+}
